@@ -1,11 +1,18 @@
 {
   "users": [
     {
-      "email": "alexismarintest1@hotmail.es",
-      "password": "$2a$10$dJwu0f6TZwvto9jmlnkbN.geyjpsGYuKn0LxYWjtvshqdG.MJyAfG",
-      "first_name": "alexis",
-      "last_name": "marin",
-      "id": 1
+      "email": "alexistest2@hotmail.es",
+      "password": "$2a$10$7WpBfLcL8m1tOT7T.V0BM.OjqPOVFPDqdBDLCL8fIeI9Zv0xCUQlS",
+      "first_name": "Julian",
+      "last_name": "Gonzales ",
+      "id": 2
+    },
+    {
+      "email": "correo@correo.com",
+      "password": "$2a$10$WMPfymmqew5h0S7lNMgdQ.ZNLWY5BiDqu3.U4D046fuh4afyRKQAK",
+      "first_name": "correo",
+      "last_name": "correo",
+      "id": 3
     }
   ]
 }
